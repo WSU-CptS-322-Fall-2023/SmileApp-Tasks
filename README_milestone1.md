@@ -1,4 +1,4 @@
-# Warmup Project - CptS322 - Fall 2022
+# Warmup Project - CptS322 - Fall 2023
 
 Before we jump into the main team projects, we will practice  web
 development by building a simple message portal called "Smile". 
